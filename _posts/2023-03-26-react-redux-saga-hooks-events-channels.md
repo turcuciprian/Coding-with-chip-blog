@@ -1,3 +1,9 @@
+---
+layout: page
+title: "PAGE-TITLE"
+---
+
+
 # Event Channels
 ## in React Redux Saga Hooks
 
