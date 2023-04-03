@@ -1,3 +1,8 @@
+---
+title: "Dicom MRI to Jpeg file in python"
+date: 2023-03-26
+---
+
 # Dicom MRI to Jpeg file in python
 
 In this post I'm going to show you how I read DICOM images in python and saved them as jpg files
