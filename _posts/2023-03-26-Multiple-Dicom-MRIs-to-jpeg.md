@@ -3,6 +3,8 @@ title: "Multiple Dicom MRIs to jpeg"
 categories: machine-learning
 layout: post
 date: 2023-03-26
+permalink: /2023/03/26/multiple-dicom-mris-to-jpeg/
+
 ---
 
 Here's the code for handling multiple MRI folders with DICOM mri images and how to save them into jpegs in organized folders
