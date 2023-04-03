@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Event Channels in React Redux Saga Hooks"
 categories: React
 ---
