@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: "Multiple Dicom MRI's to Jpeg files in python"
 categories: Machine-learning
 ---
