@@ -1,6 +1,6 @@
 ---
-layout: post
 title: "Multiple Dicom MRIs to jpeg"
+layout: post
 categories: machine-learning
 date: 2023-03-26
 ---
