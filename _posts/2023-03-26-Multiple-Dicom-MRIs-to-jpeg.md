@@ -3,7 +3,7 @@ title: "Multiple Dicom MRIs to jpeg"
 categories: machine-learning
 layout: post
 date: 2023-03-26
-permalink: /2023/03/26/multiple-dicom-mris-to-jpeg/
+permalink: /2023/03/26/multiple-dicom-mris-to-jpeg.html
 
 ---
 
