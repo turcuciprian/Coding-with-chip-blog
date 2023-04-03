@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Event Channels in React Redux Saga Hooks"
+---
+
 # Event Channels
 ## in React Redux Saga Hooks
 

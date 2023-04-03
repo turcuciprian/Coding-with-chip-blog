@@ -1,5 +1,8 @@
-# Event Channels
-## in React Redux Saga Hooks
+---
+layout: page
+title: "Event Channels in React Redux Saga Hooks"
+---
+
 
 In the tutorial available here: [https://youtu.be/cTcThsNqqcg](https://youtu.be/cTcThsNqqcg)
 I explain how eventChannels work using sockets ( a socket server ) and a react with redux hooks saga implementation.
