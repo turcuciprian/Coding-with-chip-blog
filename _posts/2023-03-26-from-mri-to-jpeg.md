@@ -1,6 +1,7 @@
 ---
 title: "Dicom MRI to Jpeg file in python"
 date: 2023-03-26
+permalink: /test.html
 ---
 
 # Dicom MRI to Jpeg file in python
