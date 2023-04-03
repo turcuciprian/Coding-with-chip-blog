@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Dicom MRI to Jpeg file in python"
+permalink: /posts/test.html
 ---
 
 # Dicom MRI to Jpeg file in python
