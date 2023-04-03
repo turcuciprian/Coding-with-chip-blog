@@ -1,4 +1,5 @@
 ---
+layout: page
 title: "Multiple Dicom MRI's to Jpeg files in python"
 ---
 
