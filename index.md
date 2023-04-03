@@ -1,7 +1,6 @@
 ---
 title: "Ciprian Turcu Blog"
 description: "I write about coding, mostly focused on python and ML nowadays"
-Layout: home
 ---
 <!-- This loops through the paginated posts -->
 {% for post in paginator.posts %}
@@ -13,22 +12,3 @@ Layout: home
     {{ post.content }}
   </div>
 {% endfor %}
-
-<!-- Pagination links -->
-<div class="pagination">
-  {% if paginator.previous_page %}
-    <a href="{{ paginator.previous_page_path }}" class="previous">
-      Previous
-    </a>
-  {% else %}
-    <span class="previous">Previous</span>
-  {% endif %}
-  <span class="page_number ">
-    Page: {{ paginator.page }} of {{ paginator.total_pages }}
-  </span>
-  {% if paginator.next_page %}
-    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-  {% else %}
-    <span class="next ">Next</span>
-  {% endif %}
-</div>
