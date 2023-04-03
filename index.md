@@ -4,6 +4,7 @@ description: "I write about coding, mostly focused on python and ML nowadays"
 ---
 
 {% for post in site.posts %}
+
   <article>
     <h2>
       <a href="{{ post.url }}">
@@ -11,6 +12,6 @@ description: "I write about coding, mostly focused on python and ML nowadays"
       </a>
     </h2>
     <time datetime="{{ post.date | date: "%Y-%m-%d" }}">{{ post.date | date_to_long_string }}</time>
-    {{ post.content | truncate: '400' }}
+    {{ post.content }}
   </article>
 {% endfor %}
