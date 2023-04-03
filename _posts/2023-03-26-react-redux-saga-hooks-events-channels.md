@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Event Channels in React Redux Saga Hooks"
+categories: React
 ---
 
 In the tutorial available here: [https://youtu.be/cTcThsNqqcg](https://youtu.be/cTcThsNqqcg)

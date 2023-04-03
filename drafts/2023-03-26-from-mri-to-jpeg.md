@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Dicom MRI to Jpeg file in python"
-permalink: /posts/testx.html
+categories: Machine-learning
 ---
 
 # Dicom MRI to Jpeg file in python
