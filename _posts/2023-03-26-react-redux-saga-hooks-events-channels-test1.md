@@ -1,10 +1,6 @@
 ---
-layout: page
 title: "Event Channels in React Redux Saga Hooks"
 ---
-
-# Event Channels
-## in React Redux Saga Hooks
 
 In the tutorial available here: [https://youtu.be/cTcThsNqqcg](https://youtu.be/cTcThsNqqcg)
 I explain how eventChannels work using sockets ( a socket server ) and a react with redux hooks saga implementation.
@@ -56,10 +52,9 @@ httpServer.listen(3001, () => {
 
 This is just the saga file containing the generator, but it's the full file showing the eventChannel and socket implementation
 
-For a full react Implementation with redux saga in hooks, as a previous project showing react redux saga with hooke, you can find 
+For a full react Implementation with redux saga in hooks, as a previous project showing react redux saga with hooke, you can find
 
 Meanwhile, here's the code of the final saga file:
-
 
 ```
 import { put, take, takeLatest, all, call } from "redux-saga/effects";
