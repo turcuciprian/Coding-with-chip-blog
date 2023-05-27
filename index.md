@@ -15,6 +15,7 @@ description: "I write about coding, mostly focused on python and ML nowadays. A 
 {% endfor %}
 
 {% if paginator.total_pages > 1 %}
+
   <div class="pagination">
     {% if paginator.previous_page %}
       <a href="{{ paginator.previous_page_path }}">Previous</a>
