@@ -12,3 +12,6 @@ layout: default
     </li>
 {% endfor %}
 </ul>
+{% for category in post.categories %}
+    <a href="/categories/{{ category | slugify }}/">{{ category }}</a>
+{% endfor %}
