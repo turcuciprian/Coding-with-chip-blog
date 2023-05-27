@@ -1,7 +1,5 @@
 ---
 layout: default
-pagination:
-  enabled: true
 ---
 
 <h1>Home page</h1>
@@ -12,6 +10,8 @@ pagination:
 <p><a href="{{ post.url | relative_url }}">Read More</a></p>
 {% endfor %}
 
+
+{% if paginator.total_pages > 1 %}
 <div class="pagination">
   {% if paginator.previous_page %}
   <a href="{{ paginator.previous_page_path }}">Previous</a>
@@ -24,3 +24,4 @@ pagination:
   <span>Next</span>
   {% endif %}
 </div>
+{% endif %}

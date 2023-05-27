@@ -3,12 +3,6 @@ description: The scripts from the youtube channel and more, in text format, with
 remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
-  - jekyll-paginate-v2
-
-pagination:
-  enabled: true
-  per_page: 5
-  permalink: '/page/:num/' 
-  sort_field: 'date'
-  sort_reverse: true
-
+  - jekyll-paginate
+paginate: 5
+paginate_path: "/blog/page:num/"
