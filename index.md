@@ -1,6 +1,6 @@
 ---
-title: "Ciprian Turcu Blog"
-description: "I write about coding, mostly focused on python and ML nowadays"
+title: "Coding With Chip Blog"
+description: "I write about coding, mostly focused on python and ML nowadays. A blog by Ciprian Turcu"
 ---
 
 {% for post in site.posts %}
