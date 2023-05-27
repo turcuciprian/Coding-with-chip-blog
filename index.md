@@ -13,8 +13,8 @@ description: "I write about coding, mostly focused on python and ML nowadays. A 
   <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
   <p>{{ post.excerpt }}</p>
 {% endfor %}
-test
-{% if paginator.total_pages >= 0 %}
+
+{% if paginator.total_pages > 10 %}
 
   <div class="pagination">
     {% if paginator.previous_page %}
