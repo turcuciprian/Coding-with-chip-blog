@@ -1,6 +1,6 @@
 ---
 title: "Multiple Dicom MRIs to jpeg"
-categories: python, machine-learning
+categories: python machine-learning
 layout: post
 date: 2023-03-26
 
