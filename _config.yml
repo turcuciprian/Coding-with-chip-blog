@@ -1,5 +1,4 @@
 theme: jekyll-theme-cayman
-baseurl: /Coding-with-chip-blog
 plugins:
   - jekyll-paginate
 paginate: 1
