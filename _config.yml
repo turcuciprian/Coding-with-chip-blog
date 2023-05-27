@@ -1,2 +1,6 @@
 theme: jekyll-theme-cayman
 baseurl: /Coding-with-chip-blog
+plugins:
+  - jekyll-paginate
+paginate: 1
+paginate_path: "/page:num/"
