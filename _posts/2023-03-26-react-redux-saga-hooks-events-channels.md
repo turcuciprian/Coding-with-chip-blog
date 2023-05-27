@@ -1,7 +1,7 @@
 ---
 title: "Event Channels in React Redux Saga Hooks"
 layout: post
-categories: React
+categories: react
 date: 2023-03-26
 ---
 
