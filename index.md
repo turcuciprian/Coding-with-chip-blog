@@ -1,5 +1,5 @@
 ---
-title: "Coding With Chip Blog"
+title: "Coding With Chip - Home page"
 description: "I write about coding, mostly focused on python and ML nowadays. A blog by Ciprian Turcu"
 ---
 
