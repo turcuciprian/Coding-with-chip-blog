@@ -1,9 +1,7 @@
 ---
 title: "Multiple Dicom MRIs to jpeg"
-categories: python machine-learning
 layout: post
 date: 2023-03-26
-
 ---
 
 Here's the code for handling multiple MRI folders with DICOM mri images and how to save them into jpegs in organized folders
