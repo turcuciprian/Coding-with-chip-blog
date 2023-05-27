@@ -5,6 +5,7 @@ description: "I write about coding, mostly focused on python and ML nowadays. A 
 
 {% for post in site.posts %}
 
-<h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+<h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
 {{ post.excerpt }}
+<p><a href="{{ post.url | relative_url }}">Read More</a></p>
 {% endfor %}
