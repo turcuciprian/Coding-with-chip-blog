@@ -1,6 +1,8 @@
+title: Coding Witch Chip - Blog
+description: The scripts from the youtube channel and more, in text format, with updated code and documentation
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-  - jekyll-remote-theme 
+  - jekyll-remote-theme
   - jekyll-paginate
 paginate: 1
 paginate_path: "/page:num/"
