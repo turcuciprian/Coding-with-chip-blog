@@ -14,7 +14,7 @@ description: "I write about coding, mostly focused on python and ML nowadays. A 
   <p>{{ post.excerpt }}</p>
 {% endfor %}
 
-{% if paginator.total_pages > 0 %}
+{% if paginator.total_pages >= 0 %}
 
   <div class="pagination">
     {% if paginator.previous_page %}
