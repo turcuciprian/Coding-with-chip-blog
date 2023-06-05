@@ -45,8 +45,6 @@ On top of everything, it takes from a generated folder `masks` all the images an
 
       Basically it will generate an `after` folder with each image transformation as a folder name inside it, place all the images transformed after they are taken from the before folder and processed, and creates an after/all folder with `images` and `masks` folders inside of them, where all the images generated are combined with their parent folder name as a file prefix while it generates the masks for each image accourdingly.
 
-      The 
-      
       ATTENTION!
       1. The masks are images that need to exist with the same names exactly as the images in the `before` folder.
       2. For this version of the script, you need to run the all.py script twice. First time to generate the modified images and the second time to generate the masks for the modified images - this is because the after/mask folder does not exist and is generated (if you create it manually and place the masks in the re beforehand, it should work and require you to run python `all.py` only once)
