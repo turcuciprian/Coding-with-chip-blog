@@ -9,6 +9,8 @@ With that in mind, I made a script that takes a folder with images and does the 
 
 On top of everything, it takes from a generated folder `masks` all the images and creates mask images for each modified picture, with each coresponding generated (with prefix) name
 
+``The most important and useful thing that it does, is it creates a resized and cropped version of the original file to a specific width and height (default 800x600) and generates all the modified images based on the resized version of the pictures``
+
 ### [Repository Link](https://github.com/turcuciprian/BS_DPI)
 ---
 # Usage Instructions
