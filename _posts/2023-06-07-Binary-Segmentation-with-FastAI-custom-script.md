@@ -8,9 +8,14 @@ Create masks for any images, in any pictures, and with a dataset as low as 10 pi
 
 I have used the FastAI library and created a script that can train a machine learning model with, again, as little as 10 pictures with masks and the result of that model when testing it is absolutely incredible considering the training dataset size.
 
+### [ - DEMO - ](https://youtu.be/i49ZJwPtj8c)
+
 The script is avaolable on my repository here:
+
 ### [Repository Link](https://github.com/turcuciprian/binary_segmentation)
+
 ---
+
 # Prerequisites Instructions
 
 - install poetry on your system
@@ -37,7 +42,7 @@ The script is avaolable on my repository here:
 
 after activating the poetry environment and installing poetry once (making sure you have all the required dependencies installed), just run:
 
-``python train.py` 
+``python train.py`
 
 When running it, make sure you are in the root directory of the repository
 
@@ -51,8 +56,5 @@ To start inference, run the following command in the root of the repository:
 ``python inferrence.py`
 
 All of the predicted masks will be overlayed over the original images and given an opacity. Then they will be saved as new images in the folder `./test/input/`
-
-
-
 
 When running it, make sure you are in the root directory of the repository
