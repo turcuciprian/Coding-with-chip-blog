@@ -8,7 +8,7 @@ Create masks for any images, in any pictures, and with a dataset as low as 10 pi
 
 I have used the FastAI library and created a script that can train a machine learning model with, again, as little as 10 pictures with masks and the result of that model when testing it is absolutely incredible considering the training dataset size.
 
-### [ - DEMO - ](https://youtu.be/Qni5JU8c7JQ)
+### [ - Demo Video - ](https://youtu.be/Qni5JU8c7JQ)
 
 The script is avaolable on my repository here:
 
