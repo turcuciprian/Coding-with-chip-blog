@@ -1,6 +1,5 @@
 ---
 title: "Detecting License plates on cars from dashcam videos"
-layout: draft
 date: 2023-07-15
 ---
 
@@ -62,6 +61,7 @@ Model used:
     **Solution**:
         Each text is: 
             1. Checked for length if it qualifies as a license plate 
+            2. I applied a regex to match the license plates for my country
             2. If it qualifies, it should be appended to a csv file if it does not exist, alongside the original name for the file it was extracted from (the full image not the cropped version)
 
 
