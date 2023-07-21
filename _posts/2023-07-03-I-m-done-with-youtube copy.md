@@ -1,5 +1,5 @@
 ---
-title: "I'm tdone with youtube!?"
+title: "I'm done with youtube!?"
 layout: post
 date: 2023-07-03
 ---
