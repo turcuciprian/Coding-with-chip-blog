@@ -61,3 +61,12 @@ List all the environments available for you to activate in conda
 ```
 conda env list
 ```
+
+### Using the env with jupyter notebook (by creating a jupyter kernel)
+
+When you want to use the packages you just installed in your environment with jupyter notebook, you need to use ipykernel (that needs to be installed )
+You can create a new jupyter notebook kernel like this:
+
+```
+python -m ipykernel install --user --name=your_kernel_name_here
+```
