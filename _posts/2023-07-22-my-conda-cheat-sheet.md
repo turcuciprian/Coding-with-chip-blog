@@ -1,5 +1,5 @@
 ---
-title: "Detecting License plates on cars from dashcam videos"
+title: "my-conda-cheat-sheet"
 date: 2023-07-22
 ---
 
