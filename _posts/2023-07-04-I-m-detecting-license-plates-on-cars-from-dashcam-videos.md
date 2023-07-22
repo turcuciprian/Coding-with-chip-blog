@@ -3,8 +3,6 @@ title: "Detecting License plates on cars from dashcam videos"
 date: 2023-07-15
 ---
 
-## The idea:
-
 The final "product" needs to be a way to extract all the unique license plates from cars in a dash cam video and placed into a CSV file, stacked on top of eachother.
 
 It's a Simple idea. But is it a useful one?
