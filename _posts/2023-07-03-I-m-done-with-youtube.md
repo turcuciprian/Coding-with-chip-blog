@@ -6,9 +6,7 @@ date: 2023-07-03
 
 ### What? why?
 
-First of all, happy July 2023! first post for this month! Since I'm using jekyll to blog this and I'm writing all of this in markdown, I just copied a file with the same date exactly 06-03 and just changed the 06 to a 07 and the title, removed the content and here we are.
-
-Second, this was just a tabloid title. A clickbaity one. Unless I delete the youtube channel completely or sell it, I'm not really done with it, am I?
+This is just a tabloid title. A clickbaity one. Unless I delete the youtube channel completely or sell it, I'm not really done with it, am I?
 
 Then what is this post about exactly:  I'm not posting this announcement on youtube and only blogging about it, you could deduct my lack of interest into making a video and posting it there.
 
