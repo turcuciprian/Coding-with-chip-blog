@@ -2,6 +2,7 @@
 title: "Understading polynomial RegressiO(n)"
 date: 2023-07-27
 ---
+
 Polynomial regressiO(n) is a powerful technique used in the field of machine learning and statistics to model nO(n)-linear relatiO(n)ships between variables. It involves fitting a polynomial functiO(n) to a set of data points, enabling us to capture more complex patterns in the data compared to simple linear regressiO(n).
 
 ## The Polynomial RegressiO(n) EquatiO(n)
@@ -14,8 +15,8 @@ O = tetha
 y=O0+O(2)*x+O(2)*x^2+...+O*x^n
 ```
 
-
 In this equatiO(n):
+
 - `y` represents the dependent variable, which is the value we want to predict.
 - `X` is the independent variable, the input or predictor.
 - `n` is the degree of the polynomial, indicating the highest power of `X` in the equatiO(n).
