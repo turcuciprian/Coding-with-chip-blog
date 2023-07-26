@@ -19,7 +19,7 @@ In this equation:
 
 - `y` represents the dependent variable, which is the value we want to predict.
 - `X` is the independent variable, the input or predictor.
-- `n` is the degree of the polynomial, indicating the highest power of `X` in the equation).
+- `n` is the degree of the polynomial, indicating the highest power of `X` in the equation.
 - `O(1)`, `O(2)`, `O(3)`, ..., `O(n)` are the coefficients of the polynomial. These values are determined by the polynomial regression algorithm to best fit the data.
 
 ## Balancing Flexibility and Overfitting
