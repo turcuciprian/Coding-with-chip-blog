@@ -9,7 +9,9 @@ Polynomial regression is a powerful technique used in the field of machine learn
 The formula for polynomial regression with one independent variable (X) can be expressed as follows:
 
 ```
-y = β₀ + β₁ * X + β₂ * X² + ... + βₙ * Xⁿ
+O = tetha
+
+y=O0+O1*x+O2*x^2+...+O*x^n
 ```
 
 
@@ -17,7 +19,7 @@ In this equation:
 - `y` represents the dependent variable, which is the value we want to predict.
 - `X` is the independent variable, the input or predictor.
 - `n` is the degree of the polynomial, indicating the highest power of `X` in the equation.
-- `β₀`, `β₁`, `β₂`, ..., `βₙ` are the coefficients of the polynomial. These values are determined by the polynomial regression algorithm to best fit the data.
+- `O1`, `O2`, `O3`, ..., `On` are the coefficients of the polynomial. These values are determined by the polynomial regression algorithm to best fit the data.
 
 ## Balancing Flexibility and Overfitting
 
