@@ -1,5 +1,5 @@
 ---
-title: "My Conda cheet sheet"
+title: "My Conda cheat sheet"
 date: 2023-07-22
 ---
 
