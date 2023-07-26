@@ -8,5 +8,5 @@ I wrote all the base formulas revolving aroun gradient descent, from the cost fu
 
 ### Formulas in picture format:
 
-![Gradient-descent-single-and-multy](/least-github-pages/assets/IMG_1139.jpg){:class="img-responsive"}
+![Gradient-descent-single-and-multy](/docs/assets/IMG_1139.jpg){:class="img-responsive"}
 
