@@ -34,7 +34,7 @@ Selecting the appropriate degree for the polynomial regression model is crucial.
 
 To strike a balance, you can use techniques like cross-validation or validation datasets to evaluate the model's performance for different degrees. By comparing the model's accuracy On both training and validation data, you can identify the degree that generalizes well to new data.
 
-## Cconclusion
+## Conclusion
 
 Polynomial regression is a valuable tool when dealing with non-linear data relationships. By leveraging the flexibility of polynomials, we can better understand and model complex patterns in our data. However, it's crucial to be cautious about overfitting, as choosing an inappropriate degree can hinder the model's ability to generalize to unseen data.
 
