@@ -86,9 +86,12 @@ Use backticks to highlight \`inline code\`.
 
 For multiple lines of code, use triple backticks (```) before and after the code block. You can specify the language for syntax highlighting.
 
-```python
-def greet(name):
-    print(f"Hello, {name}!")
+```
+`\`\`\`
+  python
+  def greet(name):
+      print(f"Hello, {name}!")
+`\`\`\`
 ```
 
 ## Adding Images
@@ -105,10 +108,12 @@ For example:
 ![Sample Image](https://example.com/sample-image.jpg)
 ```
 
-Remember to provide a descriptive alt text for accessibility purposes.
+I will be updating the markdown commands I use as I use certain commands that are not in here, more and more.
 
 ## Conclusion
 
 Markdown is a powerful and versatile language for formatting text and creating content. With this cheat sheet, you now have a handy reference to help you write and structure your documents effectively. Whether you're writing a blog post, documenting code, or just formatting text, Markdown simplifies the process and lets you focus on the content.
 
 Happy writing with Markdown! 🚀
+
+And yes, this blog post was generated with AI more than 95% of it. (Chat gpt 3.5 - because pro expired 2 days ago and haven't gotten around to renewing it)
