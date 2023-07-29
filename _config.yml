@@ -1,5 +1,5 @@
 title: Coding With Chip - Blog
-description: The scripts from the youtube channel and more, in text format, with updated code and documentation
+description: Ciprian Turcu;s blog.AI scripts, stories, updates text format, with updated code and documentation
 remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
