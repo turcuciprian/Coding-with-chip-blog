@@ -1,7 +1,8 @@
 ---
 title: "My markdown Cheat sheet"
-date: 2023-07-27
+date: 2023-07-29
 ---
+
 
 I am writing this blog in markdown, as I want it to be static and I am commiting and updating github pages. Yep, this blog runs on github pages, liked to the domain. So, for myself, and anyone else that needs it and finds it useful, I want to post a "my markdown cheat sheet" post, where I highlight the most useful markdown commands I am using, in a single place, so I may come back to it whenever I need to in case I forget anything.
 
