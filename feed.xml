@@ -6,7 +6,7 @@ layout: null
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-  <title>Coding with chip</title>
+  <title>Coding with Chip</title>
   <description>Everyhting I discover, find useful, want to share, in text format (sometimes with pictures if I deem useful).</description>
   <link>{{ site.url }}</link>
   <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml" />
