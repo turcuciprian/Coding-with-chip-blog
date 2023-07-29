@@ -16,13 +16,13 @@ To create paragraphs, simply separate lines of text with a blank line. For heade
 
 Example:
 
-\`\`\`
+```
 # Header Level 1
 ## Header Level 2
 ### Header Level 3
 
 This is a paragraph. To create a new paragraph, add a blank line.
-\`\`\`
+```
 
 ## Lists
 
@@ -30,23 +30,23 @@ Markdown supports both ordered and unordered lists.
 
 **Unordered List:**
 
-\`\`\`
+```
 - Item 1
 - Item 2
   - Subitem 2.1
   - Subitem 2.2
 - Item 3
-\`\`\`
+```
 
 **Ordered List:**
 
-\`\`\`
+```
 1. First item
 2. Second item
 3. Third item
    1. Subitem 3.1
    2. Subitem 3.2
-\`\`\`
+```
 
 ## Text Formatting
 
@@ -54,21 +54,21 @@ You can apply various formatting styles to text in Markdown.
 
 **Bold Text:**
 
-\`\`\`
+```
 **This text will be bold**
-\`\`\`
+```
 
 **Italic Text:**
 
-\`\`\`
+```
 *This text will be italic*
-\`\`\`
+```
 
 **Underlined Text:**
 
-\`\`\`
+```
 <span style="text-decoration: underline;">This text will be underlined</span>
-\`\`\`
+```
 
 ## Code Snippets
 
@@ -78,32 +78,32 @@ Markdown allows you to include code snippets easily.
 
 To highlight a specific word or code within a sentence, use backticks (\`) around the code.
 
-\`\`\`
+```
 Use backticks to highlight \`inline code\`.
-\`\`\`
+```
 
 **Code Blocks:**
 
-For multiple lines of code, use triple backticks (\`\`\`) before and after the code block. You can specify the language for syntax highlighting.
+For multiple lines of code, use triple backticks (```) before and after the code block. You can specify the language for syntax highlighting.
 
-\`\`\`python
+```python
 def greet(name):
     print(f"Hello, {name}!")
-\`\`\`
+```
 
 ## Adding Images
 
 You can embed images in your Markdown document using the following syntax:
 
-\`\`\`
+```
 ![Alt text](URL of the image)
-\`\`\`
+```
 
 For example:
 
-\`\`\`
+```
 ![Sample Image](https://example.com/sample-image.jpg)
-\`\`\`
+```
 
 Remember to provide a descriptive alt text for accessibility purposes.
 
