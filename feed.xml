@@ -1,14 +1,13 @@
 ---
-layout: null
+layout: default
 ---
 
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 
 <channel>
-  <title>Coding with Chip</title>
-  <description>Everyhting I discover, find useful, want to share, in text format (sometimes with pictures if I deem useful).</description>
-  <link>{{ site.url }}</link>
+  <title>Ciprian Turcu Blog</title>
+  <description>AI scripts, ML Models, stories and updates in text format.<link>{{ site.url }}</link>
   <atom:link href="{{ "/feed.xml" | absolute_url }}" rel="self" type="application/rss+xml" />
   <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
   <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>

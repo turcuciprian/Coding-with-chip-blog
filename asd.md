@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Coding With Chip - Home page"
-description: "I write about coding, mostly focused on python and ML nowadays. A blog by Ciprian Turcu"
+title: "Ciprian Turcu - Home page"
+description: "AI scripts, ML Models, stories and updates in text format."
 ---
 
 <h1>Home page</h1>
