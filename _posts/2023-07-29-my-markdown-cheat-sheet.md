@@ -87,11 +87,11 @@ Use backticks to highlight \`inline code\`.
 For multiple lines of code, use triple backticks (```) before and after the code block. You can specify the language for syntax highlighting.
 
 ```
-`\`\`\`
+`/`/`/`
   python
   def greet(name):
       print(f"Hello, {name}!")
-`\`\`\`
+`/`/`/`
 ```
 
 ## Adding Images
