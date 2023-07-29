@@ -1,5 +1,5 @@
 title: Coding With Chip - Blog
-description: Ciprian Turcu's blog.AI scripts, stories, updates text format, with updated code and documentation
+description: Ciprian Turcu's blog.AI scripts, ML Models, stories and updates in text format.
 remote_theme: pages-themes/cayman
 plugins:
   - jekyll-remote-theme
