@@ -3,7 +3,6 @@ title: "About my youtube channel (thoughts, updates)"
 layout: post
 date: 2024-02-25
 ---
-# 
 
 I haven’t been posting a lot on youtube for a while now, and I have tried, on and off to make an update video from time to time, but now, after the latest update video (called purpose) and after taking it down, I realised some things (took it down because I realised some things).
 
