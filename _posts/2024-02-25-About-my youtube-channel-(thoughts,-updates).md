@@ -22,9 +22,9 @@ So I guess a new, hopefully better approach is required to go forward ( as much 
 
 ## The approach
 
-I am thinking of going at it like this: 
+I am thinking of going at it like this:
 
-1. I will work, discover, learn, achieve certain goals and will either do it publicly or privately on my github, 
+1. I will work, discover, learn, achieve certain goals and will either do it publicly or privately on my github,
 2. I will or will not share some specific parts of my work on this blog (more technically), with code examples and explanations
 3. When a specific approach, script , research service or product is finished, I will dedicate 30 minutes of my time to make a 10-15 min 1 take video about it.
 
