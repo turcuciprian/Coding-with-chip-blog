@@ -65,7 +65,7 @@ A script that does the conversion and formatting of the raw data into the TRAINS
 
 The column I found more relevant was the y column, where the dumbbells where showing like valleys:
 
-![Untitled](2024-04-03-Human_Activity_Recognition_Time_Series/Untitled.png)
+![Untitled](/assets/2024-04-03-Human_Activity_Recognition_Time_Series/Untitled.png)
 
 To this dataset I would just create an extra label ”1” and select all the valleys with tha tlabel active, and export the result at the end.
 
@@ -113,9 +113,9 @@ Since the initial tutorial is reading the trained, labelled data from different 
 
 Here’s a preview of how the train dataset is organised(for train and for test data):
 
-![Untitled](2024-04-03-Human_Activity_Recognition_Time_Series/Untitled%201.png)
+![Untitled](/assets/2024-04-03-Human_Activity_Recognition_Time_Series/Untitled%201.png)
 
-![Untitled](2024-04-03-Human_Activity_Recognition_Time_Series/Untitled%202.png)
+![Untitled](/assets/2024-04-03-Human_Activity_Recognition_Time_Series/Untitled%202.png)
 
 All these files contain the 50% point difference windows data for training are loaded in memory and concatenated and then turned into a 3D array before processing.
 
